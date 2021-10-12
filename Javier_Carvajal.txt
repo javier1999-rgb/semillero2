@@ -1,1 +1,1 @@
-use gitgraken para clonar y subier el archivo
+use gitgraken para clonar y subir el archivo
